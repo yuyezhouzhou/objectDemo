@@ -23,6 +23,7 @@ public class StudentTest {
 		System.out.println("ͨ通过重写的equals方法比较s1和s2是否相等：" + s1.equals(s2));
 		System.out.println(s1);
 		
+		//测试git更新提交
 	}
 	
 
