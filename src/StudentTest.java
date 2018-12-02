@@ -24,6 +24,7 @@ public class StudentTest {
 		System.out.println(s1);
 		
 		//测试git更新提交
+		//System.out.println(s2);
 	}
 	
 
